@@ -1,0 +1,89 @@
+body {
+
+    background-color: hsl(233, 47%, 7%);
+    text-align: center;
+
+    font-family: 'Inter', sans-serif;
+
+}
+
+h1 {
+
+    color: hsl(0, 0%, 100%);
+    margin: 0 50px;
+    padding-top: 50px;
+    text-align: left;
+    
+
+}
+
+h2 {
+
+    color: hsl(0, 0%, 100%);
+    margin: 0 50px;
+    padding-top: 20px;
+    text-align: left;
+    word-spacing: 72px;
+
+}
+
+p {
+
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+    margin: 50px;
+    line-height: 2;
+    text-align: left;
+    padding-right: 80px;
+    font-size: 15px;
+
+}
+
+.container {
+
+    background-color: hsl(244, 38%, 16%);
+    height: 446px;
+    width: 1080px;
+    margin: 200px auto;
+}
+
+.header {
+
+    float: right;
+
+}
+
+.insights {
+
+    color: hsl(277, 64%, 61%);
+
+}
+
+.stats {
+
+    color: hsla(0, 0%, 100%, 0.6);
+}
+
+.p-stats {
+
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+    margin: 0 50px;
+    text-align: left;
+    word-spacing: 50px;
+    font-size: 13px;
+
+}
+
+.attribution { 
+
+    font-size: 11px;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+
+}
